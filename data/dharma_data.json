@@ -1,0 +1,317 @@
+{
+    "helping_others_grow": {
+        "keywords": [
+            "teach",
+            "help others",
+            "mentor",
+            "guide",
+            "develop people",
+            "inspire",
+            "educate",
+            "growth",
+            "potential"
+        ],
+        "description": "Your true calling is to help others develop and reach their potential. You find fulfillment in guiding, teaching, and witnessing the growth of others.",
+        "careers": [
+            {
+                "title": "Teacher/Professor",
+                "description": "Educate and inspire students in formal educational settings"
+            },
+            {
+                "title": "Corporate Trainer",
+                "description": "Help professionals develop new skills and knowledge in business settings"
+            },
+            {
+                "title": "Coach",
+                "description": "Guide individuals to achieve their personal or professional goals"
+            },
+            {
+                "title": "Mentor",
+                "description": "Provide guidance and wisdom to help others navigate their path"
+            },
+            {
+                "title": "Instructional Designer",
+                "description": "Create educational content and learning experiences"
+            },
+            {
+                "title": "Educational Content Creator",
+                "description": "Develop videos, articles, or courses that teach others"
+            }
+        ]
+    },
+    "creating_and_innovating": {
+        "keywords": [
+            "build",
+            "create",
+            "make",
+            "design",
+            "craft",
+            "construct",
+            "develop",
+            "invent",
+            "innovate"
+        ],
+        "description": "Your true calling is to bring new things into existence. You thrive when you're creating, designing, or building something meaningful.",
+        "careers": [
+            {
+                "title": "Software Developer",
+                "description": "Create applications and systems that solve problems"
+            },
+            {
+                "title": "Product Designer",
+                "description": "Design products that meet user needs and provide value"
+            },
+            {
+                "title": "Artist",
+                "description": "Express ideas and emotions through various artistic mediums"
+            },
+            {
+                "title": "Writer",
+                "description": "Craft stories, articles, or content that informs or entertains"
+            },
+            {
+                "title": "Architect",
+                "description": "Design spaces and structures that serve human needs"
+            },
+            {
+                "title": "Entrepreneur",
+                "description": "Create and build businesses that provide value"
+            }
+        ]
+    },
+    "solving_problems": {
+        "keywords": [
+            "solve",
+            "fix",
+            "figure out",
+            "analyze",
+            "troubleshoot",
+            "improve",
+            "optimize",
+            "solution"
+        ],
+        "description": "Your true calling is to solve complex problems. You find satisfaction in analyzing situations, identifying issues, and developing effective solutions.",
+        "careers": [
+            {
+                "title": "Consultant",
+                "description": "Help organizations solve business problems and improve performance"
+            },
+            {
+                "title": "Engineer",
+                "description": "Apply scientific principles to design solutions to technical problems"
+            },
+            {
+                "title": "Research Scientist",
+                "description": "Investigate questions and develop new knowledge through research"
+            },
+            {
+                "title": "Data Analyst/Scientist",
+                "description": "Extract insights from data to solve business problems"
+            },
+            {
+                "title": "Technical Support Specialist",
+                "description": "Help users solve technical issues with products or services"
+            },
+            {
+                "title": "Quality Assurance Specialist",
+                "description": "Identify and solve quality issues in products or processes"
+            }
+        ]
+    },
+    "caring_for_others": {
+        "keywords": [
+            "care",
+            "nurture",
+            "support",
+            "heal",
+            "comfort",
+            "protect",
+            "help",
+            "serve",
+            "empathy"
+        ],
+        "description": "Your true calling is to care for and support others. You find meaning in helping people through difficult times and improving their wellbeing.",
+        "careers": [
+            {
+                "title": "Healthcare Professional",
+                "description": "Provide medical care and support to patients"
+            },
+            {
+                "title": "Counselor/Therapist",
+                "description": "Help people navigate emotional challenges and improve mental health"
+            },
+            {
+                "title": "Social Worker",
+                "description": "Support individuals and families facing difficult circumstances"
+            },
+            {
+                "title": "Customer Support Specialist",
+                "description": "Help customers solve problems and have positive experiences"
+            },
+            {
+                "title": "Community Outreach Coordinator",
+                "description": "Connect people with resources and support in their community"
+            },
+            {
+                "title": "Caregiver",
+                "description": "Provide direct care and support to those who need assistance"
+            }
+        ]
+    },
+    "organizing_and_planning": {
+        "keywords": [
+            "organize",
+            "plan",
+            "arrange",
+            "coordinate",
+            "structure",
+            "manage",
+            "order",
+            "systematize"
+        ],
+        "description": "Your true calling is to create order from chaos. You thrive when organizing, planning, and ensuring things run smoothly and efficiently.",
+        "careers": [
+            {
+                "title": "Project Manager",
+                "description": "Plan and execute projects to achieve specific goals"
+            },
+            {
+                "title": "Operations Manager",
+                "description": "Ensure efficient and effective daily operations"
+            },
+            {
+                "title": "Event Planner",
+                "description": "Coordinate and organize events from concept to execution"
+            },
+            {
+                "title": "Logistics Coordinator",
+                "description": "Manage the flow of goods, information, or people"
+            },
+            {
+                "title": "Administrative Professional",
+                "description": "Support organizations by maintaining order and efficiency"
+            },
+            {
+                "title": "Process Improvement Specialist",
+                "description": "Analyze and optimize organizational processes"
+            }
+        ]
+    },
+    "expressing_creativity": {
+        "keywords": [
+            "express",
+            "create art",
+            "perform",
+            "write",
+            "play music",
+            "design",
+            "imagine",
+            "creative"
+        ],
+        "description": "Your true calling is to express yourself creatively. You find fulfillment in artistic expression and bringing beauty or meaning into the world.",
+        "careers": [
+            {
+                "title": "Graphic Designer",
+                "description": "Create visual content to communicate messages"
+            },
+            {
+                "title": "Content Creator",
+                "description": "Develop engaging content across various platforms"
+            },
+            {
+                "title": "UX/UI Designer",
+                "description": "Design user experiences for digital products"
+            },
+            {
+                "title": "Marketing Creative",
+                "description": "Develop creative campaigns and materials"
+            },
+            {
+                "title": "Performer",
+                "description": "Express yourself through acting, music, or other performance arts"
+            },
+            {
+                "title": "Creative Director",
+                "description": "Guide the creative vision for projects or organizations"
+            }
+        ]
+    },
+    "discovering_knowledge": {
+        "keywords": [
+            "learn",
+            "discover",
+            "research",
+            "investigate",
+            "study",
+            "examine",
+            "understand",
+            "knowledge"
+        ],
+        "description": "Your true calling is to discover and share knowledge. You thrive when learning, researching, and understanding complex topics.",
+        "careers": [
+            {
+                "title": "Researcher",
+                "description": "Investigate questions and contribute to knowledge in your field"
+            },
+            {
+                "title": "Journalist",
+                "description": "Investigate and report on events and issues"
+            },
+            {
+                "title": "Market Research Analyst",
+                "description": "Gather and analyze data about markets and consumers"
+            },
+            {
+                "title": "Business Intelligence Analyst",
+                "description": "Transform data into actionable business insights"
+            },
+            {
+                "title": "Librarian/Information Specialist",
+                "description": "Help others access and navigate information"
+            },
+            {
+                "title": "Curriculum Developer",
+                "description": "Research and develop educational content and programs"
+            }
+        ]
+    },
+    "leading_and_inspiring": {
+        "keywords": [
+            "lead",
+            "direct",
+            "guide team",
+            "manage people",
+            "influence",
+            "motivate",
+            "inspire",
+            "vision"
+        ],
+        "description": "Your true calling is to lead and inspire others. You find fulfillment in guiding groups toward a shared vision and bringing out the best in people.",
+        "careers": [
+            {
+                "title": "Team Leader/Manager",
+                "description": "Guide teams to achieve goals while developing team members"
+            },
+            {
+                "title": "Executive",
+                "description": "Set organizational direction and make high-level decisions"
+            },
+            {
+                "title": "Community Leader",
+                "description": "Bring people together around shared interests or causes"
+            },
+            {
+                "title": "Motivational Speaker",
+                "description": "Inspire and motivate others through public speaking"
+            },
+            {
+                "title": "Leadership Coach",
+                "description": "Help others develop their leadership abilities"
+            },
+            {
+                "title": "Entrepreneur",
+                "description": "Lead organizations that bring your vision to life"
+            }
+        ]
+    }
+}
